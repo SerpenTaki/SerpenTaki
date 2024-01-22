@@ -2,6 +2,7 @@
 - I’m here to learn new stuff and to publish some code online
 - I’m currently learning computer science in University of Padua in italy
 - I'm following the dream to become a Videogame dev
+- I'm quite interested also in mobile application and websites
 
 Some things that I know:
 - C
